@@ -10,7 +10,7 @@ function App() {
   return (
     <Layout>
     <Switch>
-      <Route path="/Great-Quotes" exact>
+      <Route path="/Great-Quotes">
         <Redirect to="/quotes" />
       </Route>
       <Route path="/" exact>

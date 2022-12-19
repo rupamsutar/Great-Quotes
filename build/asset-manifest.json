@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Great-Quotes/static/css/main.cfbb7bc1.css",
-    "main.js": "/Great-Quotes/static/js/main.a659a500.js",
+    "main.js": "/Great-Quotes/static/js/main.d452799c.js",
     "index.html": "/Great-Quotes/index.html",
     "main.cfbb7bc1.css.map": "/Great-Quotes/static/css/main.cfbb7bc1.css.map",
-    "main.a659a500.js.map": "/Great-Quotes/static/js/main.a659a500.js.map"
+    "main.d452799c.js.map": "/Great-Quotes/static/js/main.d452799c.js.map"
   },
   "entrypoints": [
     "static/css/main.cfbb7bc1.css",
-    "static/js/main.a659a500.js"
+    "static/js/main.d452799c.js"
   ]
 }
