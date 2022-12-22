@@ -8,6 +8,8 @@ const Layout = React.lazy(() => import('./components/layout/Layout'));
 const NotFound = React.lazy(() => import('./pages/NotFound'));
 const LoadingSpinner = React.lazy(() => import('./components/UI/LoadingSpinner'));
 
+
+
 function App() {
   return (
     <Layout>
