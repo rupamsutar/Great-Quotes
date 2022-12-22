@@ -14,7 +14,6 @@ const QuoteDetails = () => {
     const match = useRouteMatch();
 
     const {quoteID} = params;
-    console.log(quoteID);
 
     useEffect(() => {
         sendRequest(quoteID);
