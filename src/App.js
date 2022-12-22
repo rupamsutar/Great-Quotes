@@ -1,12 +1,13 @@
 import React, { Suspense } from "react";
 import { Route, Switch, Redirect } from "react-router-dom";
 
+import LoadingSpinner from "./components/UI/LoadingSpinner";
+import Layout from './components/layout/Layout';
+
 const NewQuote = React.lazy(() => import('./pages/NewQuote'));
 const AllQuotes = React.lazy(() => import('./pages/AllQuotes'));
 const QuoteDetails = React.lazy(() => import('./pages/QuoteDetails'));
-const Layout = React.lazy(() => import('./components/layout/Layout'));
 const NotFound = React.lazy(() => import('./pages/NotFound'));
-const LoadingSpinner = React.lazy(() => import('./components/UI/LoadingSpinner'));
 
 
 
