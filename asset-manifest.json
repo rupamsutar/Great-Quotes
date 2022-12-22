@@ -1,13 +1,37 @@
 {
   "files": {
-    "main.css": "/Great-Quotes/static/css/main.cfbb7bc1.css",
-    "main.js": "/Great-Quotes/static/js/main.e70c6811.js",
+    "main.css": "/Great-Quotes/static/css/main.b9d66de1.css",
+    "main.js": "/Great-Quotes/static/js/main.667b7eb4.js",
+    "static/css/675.235940c4.chunk.css": "/Great-Quotes/static/css/675.235940c4.chunk.css",
+    "static/js/675.a91bf431.chunk.js": "/Great-Quotes/static/js/675.a91bf431.chunk.js",
+    "static/css/199.66eefa81.chunk.css": "/Great-Quotes/static/css/199.66eefa81.chunk.css",
+    "static/js/199.e9dc4362.chunk.js": "/Great-Quotes/static/js/199.e9dc4362.chunk.js",
+    "static/css/892.0be61e20.chunk.css": "/Great-Quotes/static/css/892.0be61e20.chunk.css",
+    "static/js/892.54d5da01.chunk.js": "/Great-Quotes/static/js/892.54d5da01.chunk.js",
+    "static/css/548.1631edc1.chunk.css": "/Great-Quotes/static/css/548.1631edc1.chunk.css",
+    "static/js/548.b3cfafbf.chunk.js": "/Great-Quotes/static/js/548.b3cfafbf.chunk.js",
+    "static/js/922.e54d8685.chunk.js": "/Great-Quotes/static/js/922.e54d8685.chunk.js",
+    "static/css/556.c38810d4.chunk.css": "/Great-Quotes/static/css/556.c38810d4.chunk.css",
+    "static/js/556.187c2ef9.chunk.js": "/Great-Quotes/static/js/556.187c2ef9.chunk.js",
+    "static/js/387.1a9e22e4.chunk.js": "/Great-Quotes/static/js/387.1a9e22e4.chunk.js",
     "index.html": "/Great-Quotes/index.html",
-    "main.cfbb7bc1.css.map": "/Great-Quotes/static/css/main.cfbb7bc1.css.map",
-    "main.e70c6811.js.map": "/Great-Quotes/static/js/main.e70c6811.js.map"
+    "main.b9d66de1.css.map": "/Great-Quotes/static/css/main.b9d66de1.css.map",
+    "main.667b7eb4.js.map": "/Great-Quotes/static/js/main.667b7eb4.js.map",
+    "675.235940c4.chunk.css.map": "/Great-Quotes/static/css/675.235940c4.chunk.css.map",
+    "675.a91bf431.chunk.js.map": "/Great-Quotes/static/js/675.a91bf431.chunk.js.map",
+    "199.66eefa81.chunk.css.map": "/Great-Quotes/static/css/199.66eefa81.chunk.css.map",
+    "199.e9dc4362.chunk.js.map": "/Great-Quotes/static/js/199.e9dc4362.chunk.js.map",
+    "892.0be61e20.chunk.css.map": "/Great-Quotes/static/css/892.0be61e20.chunk.css.map",
+    "892.54d5da01.chunk.js.map": "/Great-Quotes/static/js/892.54d5da01.chunk.js.map",
+    "548.1631edc1.chunk.css.map": "/Great-Quotes/static/css/548.1631edc1.chunk.css.map",
+    "548.b3cfafbf.chunk.js.map": "/Great-Quotes/static/js/548.b3cfafbf.chunk.js.map",
+    "922.e54d8685.chunk.js.map": "/Great-Quotes/static/js/922.e54d8685.chunk.js.map",
+    "556.c38810d4.chunk.css.map": "/Great-Quotes/static/css/556.c38810d4.chunk.css.map",
+    "556.187c2ef9.chunk.js.map": "/Great-Quotes/static/js/556.187c2ef9.chunk.js.map",
+    "387.1a9e22e4.chunk.js.map": "/Great-Quotes/static/js/387.1a9e22e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfbb7bc1.css",
-    "static/js/main.e70c6811.js"
+    "static/css/main.b9d66de1.css",
+    "static/js/main.667b7eb4.js"
   ]
 }
